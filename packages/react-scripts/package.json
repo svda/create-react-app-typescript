@@ -1,8 +1,8 @@
 {
-  "name": "react-scripts-ts",
-  "version": "2.16.0",
+  "name": "svda-react-scripts",
+  "version": "2.16.0-4",
   "description": "Configuration and scripts for Create React App.",
-  "repository": "wmonk/create-react-app",
+  "repository": "svda/create-react-app",
   "license": "BSD-3-Clause",
   "engines": {
     "node": ">=6"

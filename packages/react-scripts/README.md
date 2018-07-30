@@ -1,5 +1,10 @@
 # react-scripts
 
+cd ./packages/react-scripts
+npm publish
+npm install -g svda-react-scripts
+create-react-app test-app --scripts-version svda-react-scripts
+
 This package includes scripts and configuration used by [Create React App](https://github.com/facebookincubator/create-react-app).<br>
 Please refer to its documentation:
 
